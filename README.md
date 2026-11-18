@@ -6,7 +6,7 @@ An application that uses a weather API by OpenWeatherMap
 
 - Retrieves JSON data to include:
 	- Weather in city selected, temperature, condition, and humidity
-Features:
+## Features:
 	- API integration
 	- API key authentication
 	- Error handling
