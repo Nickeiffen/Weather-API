@@ -15,7 +15,8 @@ An application that uses a weather API by OpenWeatherMap
 ## Setup
 
 ```bash
-pip install -r requirements.txt
+pip install requests python-dotenv
+    OPENWEATHER_API_KEY in .env file
 ```
 
 ## Usage
